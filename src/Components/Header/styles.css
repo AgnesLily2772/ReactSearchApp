@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+    .navbar-nav-mobile{
+        display: none;
+    }
+    .navigation{
+        width: auto;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width:1200px) {
+    .navbar-nav-mobile{
+        display: none;
+    }
+    .navigation{
+        width: auto;
+    }
+  }
